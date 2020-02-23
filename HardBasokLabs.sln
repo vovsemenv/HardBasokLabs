@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardBasokLabs", "HardBasokLabs\HardBasokLabs.csproj", "{CFB50AF1-F1CB-4688-AD1E-451B63EEF637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seleniumTests", "seleniumTests\seleniumTests.csproj", "{048AB8DA-74C6-4363-A4A5-9E0E7C176056}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70A8D85A-B8C1-478A-B261-C05E9D1FD8D1}"
+	ProjectSection(SolutionItems) = preProject
+		DataFile.txt = DataFile.txt
+		lab2test1.txt = lab2test1.txt
+		lab2test1res.txt = lab2test1res.txt
+		lab2test2.txt = lab2test2.txt
+		lab2test2res.txt = lab2test2res.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB50AF1-F1CB-4688-AD1E-451B63EEF637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB50AF1-F1CB-4688-AD1E-451B63EEF637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB50AF1-F1CB-4688-AD1E-451B63EEF637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB50AF1-F1CB-4688-AD1E-451B63EEF637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048AB8DA-74C6-4363-A4A5-9E0E7C176056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048AB8DA-74C6-4363-A4A5-9E0E7C176056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048AB8DA-74C6-4363-A4A5-9E0E7C176056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048AB8DA-74C6-4363-A4A5-9E0E7C176056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E06265-6FC0-4587-BC56-242BF6498DDE}
+	EndGlobalSection
+EndGlobal
