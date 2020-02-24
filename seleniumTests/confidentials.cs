@@ -4,9 +4,11 @@ using System.Text;
 
 namespace seleniumTests
 {
-    class confidentials
+    static class confidentials
     {
-        public static string username = "undefined";
-        public static string password = "undefined";
+        public  const string username = "vova100006";
+        public  const string password = "vov$emenV";
+        public  const string invalidUsername = "sdaf";
+        public  const string invalidpassword = "cococo";
     }
 }
